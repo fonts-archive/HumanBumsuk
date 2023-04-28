@@ -33,7 +33,7 @@ font-face
 ```
 @font-face {
     font-family: 'Human Bumsuk';
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HumanBumsuk/HumanBumsuk.woff2') format('woff2'),
